@@ -1,0 +1,3 @@
+rootProject.name = 'projectBoxApp'
+
+include ':app'
